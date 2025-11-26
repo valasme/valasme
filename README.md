@@ -1,8 +1,8 @@
-## Dimitris Valasellis
+# Dimitris Valasellis
 <br>
 Full-Stack Developer
 
-# Tech-stack
+## Tech-stack
   1. Laravel
   2. HTML
   3. CSS
