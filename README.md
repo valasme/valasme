@@ -1,0 +1,2 @@
+<img src="https://github-readme-stats.vercel.app/api?username=valasme&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Statistics" alt="GitHub Stats" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=valasme&theme=dark&hide_border=true&area=true&custom_title=Contribution%20Activity&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Contribution Graph" />
