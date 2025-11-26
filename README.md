@@ -24,11 +24,6 @@
 
   ### GitHub Stats
 
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=valasme&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Dimitris' Stats" height="165" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valasme&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-  </div>
-
   <br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=valasme&theme=tokyonight&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="100%" />
