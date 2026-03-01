@@ -1,7 +1,7 @@
 <div align="center">
 
   # Dimitris Valasellis
-  ### Full-Stack Developer
+  ### Software Engineer
 
   <p>
     Specializing in <b>Laravel 12.x</b> ecosystem and modern web architecture.
