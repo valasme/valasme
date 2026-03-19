@@ -4,7 +4,7 @@
   ### Software Engineer
 
   <p>
-    Specializing in <b>Laravel 12.x</b> ecosystem and modern web architecture.
+    Specializing in <b>Laravel 12.x</b> and <b>Laravel 13.x</b> ecosystem and modern web architecture.
   </p>
 
   ---
