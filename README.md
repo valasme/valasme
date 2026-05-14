@@ -7,6 +7,8 @@
     Specializing in <b>Laravel 12.x</b> and <b>Laravel 13.x</b> ecosystem and modern web architecture.
   </p>
 
+  <a href="https://discord.com/users/1477572593065136334"><img src="https://lanyard.cnrad.dev/api/1477572593065136334" /></a>
+
   ---
 
   ### Tech Stack
